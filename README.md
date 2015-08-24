@@ -1,2 +1,3 @@
-# routery.js
-a REST API based on Restify that's all about URLs
+# Routery.js
+
+Routery.js is a small, extensible, route based, REST framework based on [Restify](https://github.com/restify/node-restify/).
